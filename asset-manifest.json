@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/BasicReact_web/static/js/main.c3338f5a.js",
+    "index.html": "/BasicReact_web/index.html",
+    "main.c3338f5a.js.map": "/BasicReact_web/static/js/main.c3338f5a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c3338f5a.js"
+  ]
+}
